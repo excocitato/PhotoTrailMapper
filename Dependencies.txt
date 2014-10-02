@@ -1,0 +1,5 @@
+You need Python 2.7, PySide, QT framework and for the installer 
+the Advanced Installer (http://www.advancedinstaller.com/)
+
+You need SQLite compiled up with the R tree module enabled for spatial (r-tree) tables.
+A pre-compiled version of this for Windows is in the dependencies directory
